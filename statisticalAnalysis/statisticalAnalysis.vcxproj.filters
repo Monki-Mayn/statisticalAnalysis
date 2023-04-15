@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\analysis\sortAlgorithm.cpp">
+      <Filter>source files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>source files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\analysis\calculations.cpp">
+      <Filter>source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\analysis\calculations.h">
+      <Filter>header files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\analysis\sortAlgorithm.h">
+      <Filter>header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source files">
+      <UniqueIdentifier>{0feeb1db-eb35-4cc1-bce1-ab6cb0e627eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header files">
+      <UniqueIdentifier>{08ca4904-3975-435d-8a6e-9e928fedc5e5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
